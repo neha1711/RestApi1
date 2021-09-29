@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14600" started-at="2021-09-14T14:29:41 IST" finished-at="2021-09-14T14:29:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14600" started-at="2021-09-14T14:29:41 IST" finished-at="2021-09-14T14:29:55 IST">
+      <class name="jira_test.JIRA_Sessionfilter">
+        <test-method status="PASS" signature="jira_login()[pri:0, instance:jira_test.JIRA_Sessionfilter@1786dec2]" name="jira_login" duration-ms="14558" started-at="2021-09-14T14:29:41 IST" finished-at="2021-09-14T14:29:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jira_login -->
+      </class> <!-- jira_test.JIRA_Sessionfilter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

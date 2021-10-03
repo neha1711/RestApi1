@@ -38,7 +38,8 @@ for(int i =0;i<coursecount;i++) {
 }
 System.out.println("sum_course_prices : "+sum_course_prices);
 Assert.assertEquals(sum_course_prices, purchaseamt,"price didn't match");
+System.out.println("change to basics 2");
 	}
-	
+
 
 }

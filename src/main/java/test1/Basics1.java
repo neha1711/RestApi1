@@ -22,7 +22,8 @@ String response=given().log().all().queryParam("key", "qaclick123").header("Cont
 //Add place -> update place with new address -> get place to validate if new add is present or not
 
 System.out.println("response is \n"+response);
-
+System.out.println("git commit");
+System.out.println("git xx");
 //parse json
 JsonPath js = Reusablemethods.rawjson(response);
 String plcid=js.getString("place_id");

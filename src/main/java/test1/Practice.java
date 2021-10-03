@@ -16,5 +16,6 @@ public class Practice {
 }
 	public static void test1() {
 		System.out.println("title3");
+		System.out.print("x");
 	}
 }

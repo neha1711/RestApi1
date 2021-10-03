@@ -12,5 +12,9 @@ public class Practice {
 	System.out.println("purchaseamt");
 	String title1=js.getString("courses[0].title");
 	System.out.println("title1");
+	System.out.println("title2");
 }
+	public static void test1() {
+		System.out.println("title3");
+	}
 }
